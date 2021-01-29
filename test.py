@@ -20,10 +20,3 @@ outside()
 
 # y = 'what'
 
-# def what():
-#     nonlocal y
-#     y = 'yes'
-#     print(y)
-
-# what()
-# print(y)
