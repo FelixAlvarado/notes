@@ -1,3 +1,29 @@
-string = 'hello'
+from collections import defaultdict
 
-print(string[2])
+def outside():
+
+    x = 1
+
+
+    def hello():
+        print(x)
+
+    
+
+    
+    hello()
+    print(x)
+
+outside()
+
+
+
+# y = 'what'
+
+# def what():
+#     nonlocal y
+#     y = 'yes'
+#     print(y)
+
+# what()
+# print(y)
